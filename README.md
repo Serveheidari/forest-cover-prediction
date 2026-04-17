@@ -81,6 +81,3 @@ To build a multi-class classification model that accurately predicts forest cove
 ```bash
 pip install -r requirements.txt
 python main.py
-
-## Author
-Serve Heidari
